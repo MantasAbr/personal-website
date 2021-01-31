@@ -25,7 +25,7 @@
                     </div>
                 </div>
 
-                <button class=\"dropbtn\">Education</button>
+                <button class=\"dropbtn\" onclick=\"location.href='education.php'\">Education</button>
 
                 <button class=\"dropbtn\">Contacts</button>
 
